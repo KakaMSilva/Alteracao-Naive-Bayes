@@ -1,6 +1,4 @@
 # Alteracao-Naive-Bayes
-
-
 Utilizar a biblioteca NumPy se considerar pertinente;
 Utilizar a biblioteca Pandas se considerar pertinente;
 Analisar o conteúdo da mensagem e não apenas o Assunto;
